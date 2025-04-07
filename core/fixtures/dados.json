@@ -3,8 +3,8 @@
         "model": "core.cliente",
         "pk": 1,
         "fields": {
-            "nome": "Cliente 1",
-            "email": "cliente1@example.com",
+            "nome": "Alice Souza",
+            "email": "alice.silva@example.com",
             "ativo": false
         }
     },
@@ -12,8 +12,8 @@
         "model": "core.cliente",
         "pk": 2,
         "fields": {
-            "nome": "Cliente 2",
-            "email": "cliente2@example.com",
+            "nome": "Bruno Souza",
+            "email": "bruno.souza@example.com",
             "ativo": true
         }
     },
@@ -21,8 +21,8 @@
         "model": "core.cliente",
         "pk": 3,
         "fields": {
-            "nome": "Cliente 3",
-            "email": "cliente3@example.com",
+            "nome": "Carla Oliveira",
+            "email": "carla.oliveira@example.com",
             "ativo": false
         }
     },
@@ -30,8 +30,8 @@
         "model": "core.cliente",
         "pk": 4,
         "fields": {
-            "nome": "Cliente 4",
-            "email": "cliente4@example.com",
+            "nome": "Daniel Pereira",
+            "email": "daniel.pereira@example.com",
             "ativo": true
         }
     },
@@ -39,8 +39,8 @@
         "model": "core.cliente",
         "pk": 5,
         "fields": {
-            "nome": "Cliente 5",
-            "email": "cliente5@example.com",
+            "nome": "Eduarda Lima",
+            "email": "eduarda.lima@example.com",
             "ativo": false
         }
     },
@@ -48,8 +48,8 @@
         "model": "core.cliente",
         "pk": 6,
         "fields": {
-            "nome": "Cliente 6",
-            "email": "cliente6@example.com",
+            "nome": "Felipe Gomes",
+            "email": "felipe.gomes@example.com",
             "ativo": true
         }
     },
@@ -57,8 +57,8 @@
         "model": "core.cliente",
         "pk": 7,
         "fields": {
-            "nome": "Cliente 7",
-            "email": "cliente7@example.com",
+            "nome": "Gabriela Ribeiro",
+            "email": "gabriela.ribeiro@example.com",
             "ativo": false
         }
     },
@@ -66,8 +66,8 @@
         "model": "core.cliente",
         "pk": 8,
         "fields": {
-            "nome": "Cliente 8",
-            "email": "cliente8@example.com",
+            "nome": "Henrique Almeida",
+            "email": "henrique.almeida@example.com",
             "ativo": true
         }
     },
@@ -75,8 +75,8 @@
         "model": "core.cliente",
         "pk": 9,
         "fields": {
-            "nome": "Cliente 9",
-            "email": "cliente9@example.com",
+            "nome": "Isabela Fernandes",
+            "email": "isabela.fernandes@example.com",
             "ativo": false
         }
     },
@@ -84,8 +84,8 @@
         "model": "core.cliente",
         "pk": 10,
         "fields": {
-            "nome": "Cliente 10",
-            "email": "cliente10@example.com",
+            "nome": "João Cavalcanti",
+            "email": "joão.cavalcanti@example.com",
             "ativo": true
         }
     },
@@ -93,7 +93,7 @@
         "model": "core.produto",
         "pk": 1,
         "fields": {
-            "nome": "Produto 1",
+            "nome": "Camiseta Polo",
             "preco": "15.00"
         }
     },
@@ -101,7 +101,7 @@
         "model": "core.produto",
         "pk": 2,
         "fields": {
-            "nome": "Produto 2",
+            "nome": "Tênis Esportivo",
             "preco": "25.00"
         }
     },
@@ -109,7 +109,7 @@
         "model": "core.produto",
         "pk": 3,
         "fields": {
-            "nome": "Produto 3",
+            "nome": "Smartphone Y20",
             "preco": "35.00"
         }
     },
@@ -117,7 +117,7 @@
         "model": "core.produto",
         "pk": 4,
         "fields": {
-            "nome": "Produto 4",
+            "nome": "Notebook ProBook",
             "preco": "45.00"
         }
     },
@@ -125,7 +125,7 @@
         "model": "core.produto",
         "pk": 5,
         "fields": {
-            "nome": "Produto 5",
+            "nome": "Fone Bluetooth",
             "preco": "55.00"
         }
     },
@@ -133,7 +133,7 @@
         "model": "core.produto",
         "pk": 6,
         "fields": {
-            "nome": "Produto 6",
+            "nome": "Relógio Digital",
             "preco": "65.00"
         }
     },
@@ -141,7 +141,7 @@
         "model": "core.produto",
         "pk": 7,
         "fields": {
-            "nome": "Produto 7",
+            "nome": "Mochila Executiva",
             "preco": "75.00"
         }
     },
@@ -149,7 +149,7 @@
         "model": "core.produto",
         "pk": 8,
         "fields": {
-            "nome": "Produto 8",
+            "nome": "Cafeteira Elétrica",
             "preco": "85.00"
         }
     },
@@ -157,7 +157,7 @@
         "model": "core.produto",
         "pk": 9,
         "fields": {
-            "nome": "Produto 9",
+            "nome": "Monitor LED",
             "preco": "95.00"
         }
     },
@@ -165,7 +165,7 @@
         "model": "core.produto",
         "pk": 10,
         "fields": {
-            "nome": "Produto 10",
+            "nome": "Impressora Multifuncional",
             "preco": "105.00"
         }
     },
